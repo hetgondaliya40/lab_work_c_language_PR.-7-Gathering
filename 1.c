@@ -62,12 +62,12 @@ main(){
 	int g,h,c;
 		do{
 	printf("\n[------MENU-DRIVEN------]\n\n\n");
-	printf("1. ADD\n");
-	printf("2. SUB\n");
-	printf("3. DIV\n");
-	printf("4. MULTI\n");
-	printf("5. MODULO\n");
-	printf("6. EXIT\n");
+	printf("press 1 for ADD\n");
+	printf("press 2 for SUB\n");
+	printf("press 3 for DIV\n");
+	printf("press 4 for MULTI\n");
+	printf("press 5 for MODULO\n");
+	printf("press 6 for EXIT\n");
 	printf("enter number : \n");
 	scanf("%d",&c);
 	
